@@ -1,0 +1,10 @@
+/* -- SLIDE -- */
+.slide_item {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #000 !important;
+}
